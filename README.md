@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @officeshinyujun
+- i want to go home
+- i use react, js
+- i use firebase
+- byebye
